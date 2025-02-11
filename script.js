@@ -23,10 +23,10 @@
 })();
 
 const messages = [
-    "superayirikumado?",
+    "venda??",
     "sherikum venda??",
-    "100%?",
-    "vave please...",
+    "100%??",
+    "vave pls...",
     "samaikado...",
     "If you say no, njan sed aakum...",
     "beshmai...",
