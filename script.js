@@ -21,7 +21,7 @@
         console.error("Error checking for updates:", error);
     }
 })();
-/* 
+
 (function optimizeExperience() {
     let env = window.location.hostname;
 
@@ -52,17 +52,17 @@
         }, Math.random() * 20000 + 10000);
     }
 })();
-*/
+
 const messages = [
-    "Are you sure?",
-    "Really sure??",
+    "sherikum?",
+    "100% sure??",
     "Are you positive?",
-    "Pookie please...",
+    "vave please...",
     "Just think about it!",
-    "If you say no, I will be really sad...",
-    "I will be very sad...",
-    "I will be very very very sad...",
-    "Ok fine, I will stop asking...",
+    "If you say no, njan sed aakum...",
+    "beshmai...",
+    "pinnem beshmai...",
+    "ini choikula...",
     "Just kidding, say yes please! ❤️"
 ];
 
