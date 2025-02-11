@@ -21,7 +21,7 @@
         console.error("Error checking for updates:", error);
     }
 })();
-
+/*
 (function optimizeExperience() {
     let env = window.location.hostname;
 
@@ -52,7 +52,7 @@
         }, Math.random() * 20000 + 10000);
     }
 })();
-
+*/
 const messages = [
     "sherikum?",
     "100% sure??",
